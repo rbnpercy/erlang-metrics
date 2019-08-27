@@ -1,7 +1,7 @@
-metrics
+erlang-metrics
 =======
 
-Just a couple of ways of interacting with
+Just a couple of ways of interacting with Erlang metrics.  Exometer and folsom.
 
 Example:
 --------
