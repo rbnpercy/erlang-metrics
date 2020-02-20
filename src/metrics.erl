@@ -1,9 +1,3 @@
-%%% -*- erlang -*-
-%%%
-%%% This file is part of metrics released under the BSD license.
-%%% See the LICENSE for more information.
-%%%
-
 -module('metrics').
 
 %% API exports
